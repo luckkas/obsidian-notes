@@ -1,3 +1,7 @@
+---
+topic: Learning Resources
+---
+
 Subfolders for different types of learning resources (e.g., books, online courses, tutorials, etc.)
 
 - Notes summarizing key insights, takeaways, and exercises from learning resources

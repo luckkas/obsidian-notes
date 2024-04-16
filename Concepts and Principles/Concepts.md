@@ -1,3 +1,6 @@
+---
+topic: Concepts and Principles
+---
 
 Subfolders for fundamental programming concepts and software engineering principles (e.g., algorithms, design patterns, SOLID principles, etc.)
 

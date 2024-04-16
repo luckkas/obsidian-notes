@@ -1,3 +1,7 @@
+---
+topic: Projects
+---
+
 Subfolders for individual projects or project categories
 
 - Notes on project requirements, design, architecture, and implementation details
